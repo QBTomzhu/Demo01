@@ -8,3 +8,4 @@ https://github.com/settings/tokens
 and use this token as password at the first time of git push
 the user name is the account email
 
+3. test in branch
