@@ -23,7 +23,7 @@ the user name is the account email
 	4.5 git pull  ()
 
 5. branch command
-	5.1. git branch
+	* 5.1 git branch
 	5.2 git checkout [branch name]
 	5.3 git checkout master
 	5.4 git merge [branch name]
