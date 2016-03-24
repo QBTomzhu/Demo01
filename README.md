@@ -11,10 +11,12 @@ the user name is the account email
 3. test in branch
 
 4. git command
+	git clone https://xxxxxxx
 	4.1 git status
 	4.2 git add [filename\*]
 	4.3 git commit -m "blah blah"
 	4.4 git push
+	4.5 git pull  ()
 
 5. branch command
 	5.1 git branch
